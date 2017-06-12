@@ -1,0 +1,6 @@
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\bin\Debug\FacadeDeseni.exe.config
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\bin\Debug\FacadeDeseni.exe
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\bin\Debug\FacadeDeseni.pdb
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\obj\Debug\FacadeDeseni.csprojResolveAssemblyReference.cache
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\obj\Debug\FacadeDeseni.exe
+c:\users\kuzu\documents\visual studio 2017\Projects\FacadeDeseni\FacadeDeseni\obj\Debug\FacadeDeseni.pdb
